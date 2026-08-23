@@ -1,60 +1,127 @@
-# Olá, eu sou o Nicolas Mandarino Bissoqui 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Nicolas%20Mandarino%20Bissoqui&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20|%20Engenharia%20de%20Software&descAlignY=55&descAlign=50" />
+</div>
 
-<p align="left">
-<a href="https://linkedin.com/in/nicolas-mandarino-7787761b8" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:nicolasbissoqui@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="email" /></a>
-<a href="https://nicolas125-tech.github.io/Portifolio-em-React-e-Talwind/" target="blank"><img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=React&logoColor=61DAFB" alt="portfolio" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/nicolas-mandarino-7787761b8" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:nicolasbissoqui@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="email" /></a>
+  <a href="https://nicolas125-tech.github.io/Portifolio-em-React-e-Talwind/" target="blank"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=React&logoColor=61DAFB" alt="portfolio" /></a>
 </p>
+<br/>
 
 ### 🚀 Sobre Mim
 
-Sou um estudante do 3º ano de **Engenharia de Software (Unopar)** apaixonado por transformar desafios de negócios em soluções tecnológicas robustas e escaláveis. Tenho foco em desenvolvimento **Full Stack**, **Inteligência Artificial** (Visão Computacional) e **Arquitetura de Sistemas** (Edge Computing).
+Sou um Desenvolvedor **Full Stack** e estudante do 3º ano de **Engenharia de Software (Unopar)**. Sou apaixonado por resolver problemas de negócios criando soluções tecnológicas robustas e escaláveis, da concepção do banco de dados até as interfaces no frontend. Além disso, tenho grande interesse por **Inteligência Artificial** aplicada (como Visão Computacional) e **Arquitetura de Sistemas** modernos.
 
-Além da graduação, possuo uma base sólida construída através de **mais de 20 certificações técnicas avançadas** (incluindo Full Cycle 3.0, Rocketseat e IGTI), e trago na bagagem fortes *soft skills* de resolução de problemas e comunicação, desenvolvidas atuando em suporte técnico (Help Desk) e liderança de grupos.
+Possuo uma sólida base construída através de **mais de 20 certificações técnicas avançadas**, o que demonstra o meu comprometimento com o aprendizado contínuo:
+- 🏗️ **Arquitetura & Backend:** Full Cycle 3.0, Formação Java (Rocketseat), Engenharia de Dados (IGTI), SQL.
+- 📱 **Frontend & Mobile:** Full Stack JavaScript (OneBitCode), Ignite React/Node (Rocketseat).
+- 🧠 **Inteligência Artificial:** Ignite Desenvolvimento de IA (Rocketseat).
 
----
+Aliado à bagagem técnica, possuo fortes *soft skills* de resolução de problemas, adaptabilidade e comunicação, desenvolvidas tanto atuando em suporte técnico (Help Desk) quanto na liderança de projetos práticos.
+<br/>
 
-### 🛠️ Minha Caixa de Ferramentas (Tech Stack)
+### 🛠️ Minha Stack Principal (Hard Skills)
 
-| Categoria | Tecnologias e Ferramentas |
-| :--- | :--- |
-| **Linguagens** | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> |
-| **IA & Visão** | <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> **YOLOv8** (Ultralytics) |
-| **Backend** | <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> |
-| **Frontend & Mobile** | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> |
-| **DevOps & Ferramentas** | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
+<p align="left">
+  <strong>Linguagens:</strong><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
 
----
+<p align="left">
+  <strong>Backend & Bancos de Dados:</strong><br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-### 🎓 Formação e Especializações de Destaque
+<p align="left">
+  <strong>Frontend & Mobile:</strong><br>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
 
-* **Graduação:** Engenharia de Software - Unopar (Fev. 2024 - Atual)
-* **Arquitetura & Backend:** Full Cycle 3.0, Formação Java (Rocketseat), Engenharia de Dados (IGTI), SQL Impressionador (Hashtag).
-* **Frontend & Mobile:** Full Stack JavaScript (OneBitCode), Ignite React/Node (Rocketseat), Especialista Front-end (EBAC).
-* **Inteligência Artificial:** Ignite Desenvolvimento de IA (Rocketseat).
+<p align="left">
+  <strong>IA & Visão Computacional:</strong><br>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLOv8-%23000000.svg?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8" />
+</p>
+<br/>
 
----
+### 🌟 Projetos em Destaque
 
-### 🌟 Projeto em Destaque: ChikGuard
+Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, resolvendo problemas do mundo real.
 
-O **ChikGuard** é um sistema SaaS AgTech que utiliza visão computacional e Inteligência Artificial na borda (*Edge Computing*) para monitorar a saúde e o comportamento de aves em granjas.
-
-**Principais Desafios Técnicos Superados:**
-* **IA na Borda (Edge):** Implementação do modelo YOLOv8 com OpenCV em hardware limitado (Mini PC) com técnicas de *Tracking* e *Frame Skipping* para maximizar performance.
-* **Resiliência e IoT:** Arquitetura contentorizada com Docker (`restart: always`) e rotinas de *auto-reconnect* de câmeras para tolerância a falhas físicas e de rede.
-* **Segurança Robusta:** Implementação de IAM e RBAC Multi-Tenant com políticas estritas de Row Level Security (RLS) diretamente na base de dados PostgreSQL (Supabase).
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <b>ChikGuard</b><br>
+        <i>SaaS AgTech & IA Edge</i><br><br>
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white" />
+        <br><br>
+        Sistema de monitoramento utilizando IA na borda (Edge Computing) e Visão Computacional para analisar a saúde de aves em granjas.
+        <br><br>
+        <a href="https://github.com/Nicolas125-tech/ChikGuard-Original">
+          <img src="https://img.shields.io/badge/-Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <b>TechOS</b><br>
+        <i>Gestão de Assistência Técnica</i><br><br>
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+        <br><br>
+        Sistema para gestão e controle de Ordens de Serviço (OS) em assistências técnicas, criado com foco em interface responsiva e usabilidade.
+        <br><br>
+        <a href="https://github.com/Nicolas125-tech/AssistenciaTech">
+          <img src="https://img.shields.io/badge/-Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <b>TripPlanner</b><br>
+        <i>Planejador de Viagens</i><br><br>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <br><br>
+        Aplicação Full Stack para planejamento e gestão de rotas de viagens, integrando uma API backend robusta em Java com frontend em React.
+        <br><br>
+        <a href="https://github.com/Nicolas125-tech/TripPlanner-React-e-Java">
+          <img src="https://img.shields.io/badge/-Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nicolas125-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas125-tech&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
+</div>
+
+<br/>
 
 ### 📫 Vamos Conversar?
 
-Estou ativamente à procura de oportunidades de **Estágio** ou **Trainee** em Engenharia de Software. Sinta-se à vontade para entrar em contacto comigo através do LinkedIn ou e-mail!
+Estou ativamente à procura de oportunidades para atuar como **Desenvolvedor Full Stack**, seja como **Estágio**, **Trainee** ou **Júnior**.
+
+Sinta-se à vontade para entrar em contato comigo!
+
+<div align="center">
+  <a href="https://linkedin.com/in/nicolas-mandarino-7787761b8" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:nicolasbissoqui@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="email" /></a>
+</div>
 
 ---
