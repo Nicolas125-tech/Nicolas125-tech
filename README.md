@@ -64,9 +64,13 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, 
       <td width="33%" align="center">
         <b>ChikGuard</b><br>
         <i>SaaS AgTech & IA Edge</i><br><br>
-        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-        <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-18+-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/YOLOv8-000000?style=flat-square&logo=ultralytics&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <br><br>
         Sistema de monitoramento utilizando IA na borda (Edge Computing) e Visão Computacional para analisar a saúde de aves em granjas.
         <br><br>
@@ -77,9 +81,13 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, 
       <td width="33%" align="center">
         <b>TechOS</b><br>
         <i>Gestão de Assistência Técnica</i><br><br>
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=asp.net&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
         <br><br>
         Sistema para gestão e controle de Ordens de Serviço (OS) em assistências técnicas, criado com foco em interface responsiva e usabilidade.
         <br><br>
@@ -90,8 +98,11 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, 
       <td width="33%" align="center">
         <b>TripPlanner</b><br>
         <i>Planejador de Viagens</i><br><br>
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/React_18-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
         <br><br>
         Aplicação Full Stack para planejamento e gestão de rotas de viagens, integrando uma API backend robusta em Java com frontend em React.
         <br><br>
