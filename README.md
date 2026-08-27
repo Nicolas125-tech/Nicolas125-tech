@@ -14,11 +14,11 @@
 Sou um Desenvolvedor **Full Stack** e estudante do 3º ano de **Engenharia de Software (Unopar)**. Sou apaixonado por resolver problemas de negócios criando soluções tecnológicas robustas e escaláveis, da concepção do banco de dados até as interfaces no frontend. Além disso, tenho grande interesse por **Inteligência Artificial** aplicada (como Visão Computacional) e **Arquitetura de Sistemas** modernos.
 
 Possuo uma sólida base construída através de **mais de 20 certificações técnicas avançadas**, o que demonstra o meu comprometimento com o aprendizado contínuo:
-- 🏗️ **Arquitetura & Backend:** Full Cycle 3.0, Formação Java (Rocketseat), Engenharia de Dados (IGTI), SQL.
-- 📱 **Frontend & Mobile:** Full Stack JavaScript (OneBitCode), Ignite React/Node (Rocketseat).
-- 🧠 **Inteligência Artificial:** Ignite Desenvolvimento de IA (Rocketseat).
+- 🏗️ **Arquitetura & Backend:** Full Cycle 3.0, Formação Java (Rocketseat),Formação em C#(Rocketseat) Engenharia de Dados (IGTI), SQL,Python 3 Deep Dive (Udemy / Fred Baptista)
+- 📱 **Frontend & Mobile:** Full Stack JavaScript (OneBitCode), Ignite React/Node (Rocketseat), Formação Android com Kotlin (Rocketseat).
+- 🧠 **Inteligência Artificial:** Ignite Desenvolvimento de IA (Rocketseat),Deep Learning for Computer Vision with Python (PyImageSearch).
 
-Aliado à bagagem técnica, possuo fortes *soft skills* de resolução de problemas, adaptabilidade e comunicação, desenvolvidas tanto atuando em suporte técnico (Help Desk) quanto na liderança de projetos práticos.
+Aliado à bagagem técnica, possuo fortes soft skills de resolução de problemas, adaptabilidade e comunicação. Desenvolvo essa capacidade analítica diariamente atuando como Assistente Técnico Computacional na Ágili Software, onde lido com a estabilidade e investigação de sistemas críticos no setor de tributação municipal, complementando minha experiência na liderança de projetos de software de ponta a ponta.
 <br/>
 
 ### 🛠️ Minha Stack Principal (Hard Skills)
