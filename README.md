@@ -88,6 +88,7 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, 
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
         <br><br>
         Sistema para gestão e controle de Ordens de Serviço (OS) em assistências técnicas, criado com foco em interface responsiva e usabilidade.
         <br><br>
