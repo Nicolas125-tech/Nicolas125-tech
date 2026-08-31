@@ -81,7 +81,7 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, 
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center">
+      <td width="50%" align="center">
         <b>ChikGuard</b><br>
         <i>SaaS AgTech & IA Edge</i><br><br>
         <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -100,7 +100,7 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, 
           <img src="https://img.shields.io/badge/-Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
-      <td width="33%" align="center">
+      <td width="50%" align="center">
         <b>TechOS</b><br>
         <i>Gestão de Assistência Técnica</i><br><br>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -118,7 +118,9 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, 
           <img src="https://img.shields.io/badge/-Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
-      <td width="33%" align="center">
+    </tr>
+    <tr>
+      <td width="50%" align="center">
         <b>TripPlanner</b><br>
         <i>Planejador de Viagens</i><br><br>
         <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -130,6 +132,23 @@ Aqui estão alguns dos projetos onde apliquei meus conhecimentos de Full Stack, 
         Aplicação Full Stack para planejamento e gestão de rotas de viagens, integrando uma API backend robusta em Java com frontend em React.
         <br><br>
         <a href="https://github.com/Nicolas125-tech/TripPlanner-React-e-Java">
+          <img src="https://img.shields.io/badge/-Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <b>AgroTrace</b><br>
+        <i>Rastreamento Logístico & Monitoramento Térmico</i><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <br><br>
+        Ecossistema full-stack B2B offline-first para rastreamento de cargas de alto valor. Escala massiva com TimescaleDB e arquitetura IoT ao Mobile.
+        <br><br>
+        <a href="https://github.com/Nicolas125-tech/AgroTrace">
           <img src="https://img.shields.io/badge/-Ver_Código-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
