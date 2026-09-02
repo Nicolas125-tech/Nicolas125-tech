@@ -11,14 +11,15 @@
 
 ### 🚀 Sobre Mim
 
-Sou um Desenvolvedor **Full Stack** e estudante do 3º ano de **Engenharia de Software (Unopar)**. Sou apaixonado por resolver problemas de negócios criando soluções tecnológicas robustas e escaláveis, da concepção do banco de dados até as interfaces no frontend. Além disso, tenho grande interesse por **Inteligência Artificial** aplicada (como Visão Computacional) e **Arquitetura de Sistemas** modernos.
+Sou um Desenvolvedor **Full Stack** e estudante do 3º ano de **Engenharia de Software (Unopar)**. Desenvolvo aplicações web, desde o banco de dados até o frontend, e me interesso por **Inteligência Artificial** aplicada (como Visão Computacional) e **Arquitetura de Sistemas**.
 
-Possuo uma sólida base construída através de **mais de 20 certificações técnicas avançadas**, o que demonstra o meu comprometimento com o aprendizado contínuo:
-- 🏗️ **Arquitetura & Backend:** Full Cycle 3.0, Formação Java (Rocketseat),Formação em C#(Rocketseat) Engenharia de Dados (IGTI), SQL,Python 3 Deep Dive (Udemy / Fred Baptista)
-- 📱 **Frontend & Mobile:** Full Stack JavaScript (OneBitCode), Ignite React/Node (Rocketseat), Formação Android com Kotlin (Rocketseat).
-- 🧠 **Inteligência Artificial:** Ignite Desenvolvimento de IA (Rocketseat),Deep Learning for Computer Vision with Python (PyImageSearch).
+Aprendo continuamente e possuo mais de 20 certificações técnicas, incluindo:
+- 🏗️ **Arquitetura & Backend:** Full Cycle 3.0, Formação Java (Rocketseat), Formação em C# (Rocketseat), Engenharia de Dados (IGTI), SQL, Python 3 Deep Dive (Udemy / Fred Baptista)
+- 📱 **Frontend & Mobile:** Full Stack JavaScript (OneBitCode), Ignite React/Node (Rocketseat), Formação Android com Kotlin (Rocketseat)
+- 🧠 **Inteligência Artificial:** Ignite Desenvolvimento de IA (Rocketseat), Deep Learning for Computer Vision with Python (PyImageSearch)
 
-Aliado à bagagem técnica, possuo fortes soft skills de resolução de problemas, adaptabilidade e comunicação. Desenvolvo essa capacidade analítica diariamente atuando como Assistente Técnico Computacional na Ágili Software, onde lido com a estabilidade e investigação de sistemas críticos no setor de tributação municipal, complementando minha experiência na liderança de projetos de software de ponta a ponta.
+Trabalho como Analista Técnico Computacional na Ágili Software, onde atuo na manutenção e suporte de sistemas no setor de tributação municipal. Essa experiência diária me ajuda a analisar e resolver problemas técnicos, criar consultas em banco de dados e colaborar na correção de bugs.
+
 <br/>
 
 ### 🛠️ Minha Stack Principal (Hard Skills)
